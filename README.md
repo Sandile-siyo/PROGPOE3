@@ -1,7 +1,5 @@
 CyberBot – Cybersecurity Awareness Chatbot
 Programming POE Part 3
-Developed by:
-
 Sandile Siyo
 
 Project Overview
