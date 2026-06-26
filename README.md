@@ -125,6 +125,7 @@ task_dueDate	Reminder date
 task_status	Pending or Done
 
 Supported database operations include:
+
 INSERT
 SELECT
 UPDATE
@@ -137,12 +138,14 @@ Cybersecurity Quiz
 The chatbot includes an educational multiple-choice quiz.
 
 The quiz features:
+
 Randomized answer positions
 Score tracking
 Automatic quiz reset after completion
 Multiple cybersecurity questions
 
 Topics include:
+
 Password Safety
 VPN
 Safe Browsing
@@ -154,6 +157,7 @@ Each correct answer awards 5 marks.
 Application Pages
 
 The application is divided into multiple pages using WPF Grids:
+
 Home Page
 Username Page
 Chat Page
